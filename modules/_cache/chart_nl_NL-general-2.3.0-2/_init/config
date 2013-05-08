@@ -1,0 +1,14 @@
+Package: chart_nl_NL-general
+Version: 2.3.0-2
+Name: Dutch general COA
+Description: This is a Dutch 4 digit chart of accounts for a starting company.
+Encoding: iso-8859-1
+Author: Bob Siefkes, Shopimport, Netherlands
+Maintenance: Joe Hunt
+Homepage: 
+Depends: 
+Type: chart
+InstallPath: sql
+SqlScript: nl_NL-default.sql
+Filename: chart_nl_NL-general-2.3.0-2
+

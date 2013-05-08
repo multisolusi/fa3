@@ -1,0 +1,249 @@
+# Front Accounting internationalization file.
+# Copyright (C) 2007-2011 Front Accounting Team
+# This file is distributed under the same license as the Front Accounting package.
+# Janusz Dobrowolski <janusz@frontaccounting.eu>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-02 13:49+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Janusz Dobrowolski<janusz@frontaccounting.eu>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-2\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../hooks.php:16
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../hooks.php:29
+msgid "Requisitions Entries"
+msgstr "Wprowadzanie zamówieñ"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../hooks.php:18
+msgid "Requisitions Allocation"
+msgstr "Alokacja zamówieñ"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../hooks.php:27
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:17
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:17
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:17
+msgid "Requisitions"
+msgstr "Zamówienia"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../hooks.php:30
+msgid "Requisitions Allocations"
+msgstr "Alokacje Zamówieñ"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:40
+msgid "The quantity of use cannot be empty."
+msgstr "Wprowad¼ niezerow± ilo¶æ."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:46
+msgid "The price cannot be empty."
+msgstr "Podaj cenê."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:55
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:58
+msgid "Selected requisition details has been updated."
+msgstr "Szczegó³y zamówienia zosta³y zaktualizowane."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "RNo."
+msgstr "Zno."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "Point of Use"
+msgstr "Miejsce u¿ycia"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "Request Date"
+msgstr "Data Zamówienia"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:120
+msgid "Item Code"
+msgstr "Kod Towaru"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:120
+msgid "Item Name"
+msgstr "Nazwa Towaru"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:120
+msgid "Purpose"
+msgstr "Cel"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "Quantity"
+msgstr "Ilo¶æ"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "Price"
+msgstr "Cena"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:79
+msgid "Supplier"
+msgstr "Dostawca"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:97
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:134
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:116
+msgid "Edit"
+msgstr "Edytuj"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:123
+msgid "Supplier : "
+msgstr "Dostawca: "
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:127
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:166
+msgid "kits"
+msgstr "kpl"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:129
+msgid "Order Quantity:"
+msgstr "Ilo¶æ Zamawiana:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_allocations.php:130
+msgid "Order Price :"
+msgstr "Cena Zamówienia:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:43
+msgid "The item of use cannot be empty."
+msgstr "U¿yty towar nie mo¿e byæ pusty."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:49
+msgid "The estimated price be empty."
+msgstr "Przybli¿óna cena nie mo¿e byæ pusta."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:63
+msgid "New requisition details has been added"
+msgstr "Dodano nowe szczegó³y zamówienia."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:75
+msgid "Selected requisition detail has been deleted"
+msgstr "Wybrane zamówienie zosta³o usuniête"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:94
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:103
+msgid "Point of use"
+msgstr "Miejsce u¿ycia"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:94
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:103
+msgid "Narrative"
+msgstr "Opis"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:94
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:103
+msgid "Application Date"
+msgstr "Data zastosowania"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:94
+msgid "Complete"
+msgstr "Skompletowane"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:120
+msgid "Qrder Quantity"
+msgstr "Ilo¶æ w Zamówieniu"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:120
+msgid "Estimate Price"
+msgstr "Przybli¿ona cena"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:135
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:118
+msgid "Delete"
+msgstr "Usuñ"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:161
+msgid "Item :"
+msgstr "Towar:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:162
+msgid "Purpose :"
+msgstr "Cel:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:168
+msgid "Requisition Quantity:"
+msgstr "Ilo¶æ potrzebna:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisition_details.php:169
+msgid "Estimate Price :"
+msgstr "Cena jednostkowa"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:34
+msgid "The point of use cannot be empty."
+msgstr "Miejsce u¿ycia nie mo¿e byæ puste."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:40
+msgid "The narrative be empty."
+msgstr "Opis nie mo¿e byæ pusty."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:49
+msgid "Selected requisition has been updated."
+msgstr "Wybrane zapotrzebowanie zosta³o zaktualizowane"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:56
+msgid "New requisition has been added"
+msgstr "Dodano nowe zapotrzebowanie"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:69
+msgid ""
+"Cannot delete this requisition because details transactions have been "
+"created referring to it."
+msgstr ""
+"Nie mo¿na usun±æ tego zapotrzebowania, poniewa¿ istniej± s± wprowadznoe do niego detale."
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:84
+msgid "Selected requisition has been deleted"
+msgstr "Wybrane zapotrzebowanie zosta³o usuniête"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:103
+msgid "RNo. "
+msgstr "Zno. "
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:103
+msgid "Details"
+msgstr "Szczegó³y"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:145
+msgid "Point of use :"
+msgstr "Miejsce u¿ycia:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:146
+msgid "Narrative :"
+msgstr "Opis:"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../requisitions.php:147
+msgid "Details :"
+msgstr "Szczegó³y"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:27
+msgid "Main Menu"
+msgstr "Menu G³ówne"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:52
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:78
+msgid "Logout"
+msgstr "Wylogowanie"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:53
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:76
+msgid "Help"
+msgstr "Pomoc"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:71
+msgid "Preferences"
+msgstr "Ustawienia"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:72
+msgid "Change password"
+msgstr "Zmieñ has³o"
+
+#: /var/www/fa_stable/Repo/srcs/2.3/requisitions.ignore/_devel/../../../../../themes/default/renderer.php:123
+msgid "Theme:"
+msgstr "Temat graf.:"
